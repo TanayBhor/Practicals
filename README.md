@@ -1,6 +1,9 @@
-Install OpenMp - sudo apt-get install libomp-dev / sudo apt-get install openmp
+Install OpenMp - 
+
+    sudo apt-get install libomp-dev / sudo apt-get install openmp
 
 Run Code :
+
     g++ -fopenmp filename.cpp -o filename
     
     ./filename
